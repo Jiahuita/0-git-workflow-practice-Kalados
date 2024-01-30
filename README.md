@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Link Relating to Software Engineering](https://knowledge.kitchen/content/courses/software-engineering/assets/crosstalk-missed-expectations.pdf)
+The data found in this article was both surprising but also reassuring to me. Colleges are not preparing students to be software engineers. Not only was technical ability subpar but also the ability to converse ideas or communicate with teammates and using repositories like git. We should put more focus on actually emulating how software engineers actually work and have more classes like Software Engineering in all schools to help with the change from school computer science and work computer science.
+>There were five categories in which the knowledge deficiency was identified in newly hired recent graduates, even after the company made an effort to identify them during the interview process: oral communication, written communication, testing, problem solving, and the ability to self-manage.
